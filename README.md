@@ -1,4 +1,4 @@
-Eyego DevOps Task - Containerization, Deployment, and Automation
+## Eyego DevOps Task - Containerization, Deployment, and Automation
 
 As part of this task, I implemented a complete workflow for containerizing, deploying, and automating a simple Node.js web application using Docker and Kubernetes on AWS. The objective was to ensure that the application runs reliably in a cloud environment while maintaining modularity for potential migration to Google Cloud or Alibaba Cloud.
 
