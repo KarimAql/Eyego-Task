@@ -1,0 +1,24 @@
+{
+  "name": "eyego-task",
+  "version": "1.0.0",
+  "description": "A simple Node.js web app for Eyego DevOps task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarimAql/Eyego-Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarimAql/Eyego-Task/issues"
+  },
+  "homepage": "https://github.com/KarimAql/Eyego-Task#readme"
+}
